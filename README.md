@@ -1,0 +1,2 @@
+# Monitoring-and-Predicting-Deforestation-using-Geospatial-Analysis
+This project is focused on the prediction and monitoring of deforestation in India using geospatial analysis and machine learning. It uses various features such as NDVI, rainfall, temperature, and location to identify the deforestation. It also detects the areas where deforestation is more likely and displays the results on the map.
